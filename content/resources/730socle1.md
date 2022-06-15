@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Workshop #1: Draft, Essay #1'
-file: /media/courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-photography-and-film-fall-2005/e6f6b0eb8feec014bee2533a730b5b52_730socle1.pdf
+file: /courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-photography-and-film-fall-2005/e6f6b0eb8feec014bee2533a730b5b52_730socle1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 730socle1.pdf
 uid: e6f6b0eb-8fee-c014-bee2-533a730b5b52
 ---
+Workshop #1: Draft, Essay #1
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-photography-and-film-fall-2005/656632366c9050d3e4a88a1b134acd52_21woraleval1.pdf
+file: /courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-photography-and-film-fall-2005/656632366c9050d3e4a88a1b134acd52_21woraleval1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

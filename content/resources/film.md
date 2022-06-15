@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading Films Critically
-file: /media/courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-photography-and-film-fall-2005/5f8acf84ea1a7ecae0c617732bea63c0_film.pdf
+file: /courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-photography-and-film-fall-2005/5f8acf84ea1a7ecae0c617732bea63c0_film.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: film.pdf
 uid: 5f8acf84-ea1a-7eca-e0c6-17732bea63c0
 ---
+Reading Films Critically
+
