@@ -5,6 +5,7 @@ file: /courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-p
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: guided_rev_3.pdf
 uid: 483d0a17-6f1d-71dd-4710-7f3137378552
 ---
 This resource provides information about guided revision.
-

@@ -5,6 +5,7 @@ file: /courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-p
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: f02portfolio.pdf
 uid: e4cde214-d2ce-2615-b1b5-58018894bb46
 ---
 Preparing Your Final Portfolio
-

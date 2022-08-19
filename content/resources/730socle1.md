@@ -5,6 +5,7 @@ file: /courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-p
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 730socle1.pdf
 uid: e6f6b0eb-8fee-c014-bee2-533a730b5b52
 ---
 Workshop #1: Draft, Essay #1
-

@@ -5,6 +5,7 @@ file: /courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-p
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: readwritnotaok.pdf
 uid: e7d82edc-aeb5-696d-5978-ab7030eee781
 ---
 Reader-Writer Notebook/Journal
-

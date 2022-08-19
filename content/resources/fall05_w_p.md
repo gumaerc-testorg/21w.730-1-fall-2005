@@ -5,6 +5,7 @@ file: /courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-p
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fall05_w_p.pdf
 uid: b39f1e78-112e-f2e0-73b5-f6fa80c9e0fd
 ---
 This resource provides information about writer?s portrait assignment.
-

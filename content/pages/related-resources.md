@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The related resources contains links to external website.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

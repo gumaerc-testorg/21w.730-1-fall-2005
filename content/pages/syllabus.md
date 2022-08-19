@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The Syllabus section provides informations about required reading, assignments,
+  revision process, major writing assignments, sevice-learning option, course requirements.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
