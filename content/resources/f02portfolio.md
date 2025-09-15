@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Preparing Your Final Portfolio
-file: /courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-photography-and-film-fall-2005/e4cde214d2ce2615b1b558018894bb46_f02portfolio.pdf
+file: /ol-ocw-studio-app/courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-photography-and-film-fall-2005/e4cde214d2ce2615b1b558018894bb46_f02portfolio.pdf
+file_size: 60138
 file_type: application/pdf
 learning_resource_types:
 - Assignments

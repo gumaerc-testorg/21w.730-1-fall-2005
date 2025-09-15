@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Guided Revision #2'
-file: /courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-photography-and-film-fall-2005/2ac02741dd94ff7f22bb323e9c219a3d_guided_rev_2.pdf
+file: /ol-ocw-studio-app/courses/21w-730-1-expository-writing-social-and-ethical-issues-in-print-photography-and-film-fall-2005/2ac02741dd94ff7f22bb323e9c219a3d_guided_rev_2.pdf
+file_size: 41589
 file_type: application/pdf
 learning_resource_types:
 - Assignments
