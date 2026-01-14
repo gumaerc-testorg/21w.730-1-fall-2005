@@ -50,28 +50,28 @@ Sister Prejean, Helen. _Dead Man Walking: An Eyewitness Account of the Death Pen
 Online Readings
 ---------------
 
-{{% resource_link "c782022f-5086-4098-b155-23c2f0307b4c" "Susan Sontag, On Photography" %}} (excerpt)
+[Susan Sontag, On Photography](http://www.susansontag.com/SusanSontag/books/onPhotography.shtml) (excerpt)
 
-{{% resource_link "7e8a3bbe-e59d-4256-a9ab-932cbfab8790" "Declaration of Sentiments and Resolutions" %}}
+[Declaration of Sentiments and Resolutions](https://liberalarts.utexas.edu/coretexts/_files/resources/texts/1848DeclarationofSentiments.pdf)
 
-{{% resource_link "30775234-9833-4f20-9bbb-59451df40ffa" "Girl, Interrupted" %}} (excerpt)
+[Girl, Interrupted](http://www.bookbrowse.com/excerpts/index.cfm?book_number=241) (excerpt)
 
-"{{% resource_link "40532c33-0313-40ae-96cd-94942648d3bb" "The Ultimate Punishment: A Defense" %}}" - E. Van den Haag
+"[The Ultimate Punishment: A Defense](http://www.pbs.org/wgbh/pages/frontline/angel/procon/haagarticle.html)" - E. Van den Haag
 
 Films
 -----
 
 _A Christmas Carol_.
 
-Rosenblum, Nina. {{% resource_link "a4c5f23a-5b95-4df4-aca6-3f033a5bb541" "_America and Lewis Hine_" %}}. 1985.
+Rosenblum, Nina. [_America and Lewis Hine_](http://www.imdb.com/title/tt0128927/). 1985.
 
-Hampton, Henry. {{% resource_link "cb6ebb6d-b518-4c89-8841-166002c1ed34" "_Eyes on the Prize_" %}}. 1987.
+Hampton, Henry. [_Eyes on the Prize_](http://www.imdb.com/title/tt0092999/). 1987.
 
-Mangold, James. {{% resource_link "6102138b-9eb1-40ad-8a80-7d42d1d3eaf6" "_Girl, Interrupted_" %}}. 1999.
+Mangold, James. [_Girl, Interrupted_](http://www.imdb.com/title/tt0172493/). 1999.
 
-{{% resource_link "ae8092fc-274b-4e92-8d61-f3ef70c085ef" "_Killing Us Softly_" %}}. 1999.
+[_Killing Us Softly_](http://www.imdb.com/title/tt0336699/). 1999.
 
-Robbins, Tim. {{% resource_link "f2d9a587-e71c-4451-a1c3-3942b2cc828f" "_Dead Man Walking_" %}}. 1995.
+Robbins, Tim. [_Dead Man Walking_](http://www.imdb.com/title/tt0112818/). 1995.
 
 {{< anchor "session" >}}{{< /anchor >}}Readings by Class Session
 ----------------------------------------------------------------
